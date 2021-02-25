@@ -1,0 +1,41 @@
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 130px;
+    margin-left: 475px;
+    margin-right:475px;
+}
+
+.inp{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 15px;
+    border-radius: 15px;
+    height: 25px;
+    width: 215px;
+    border: none;
+    background-color: rgb(238, 227, 227);
+    
+}
+
+.btn{
+    justify-content: center;
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    height: 30px;
+    width: 222px;
+    background-color: blue;
+    color: white;
+    border: none;
+    align-items: center;
+}
+
+.logoo{
+    justify-content: space-around;
+    display: flex;
+}
